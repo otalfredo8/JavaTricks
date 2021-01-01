@@ -1,4 +1,4 @@
-public class j1_ArithmeticOperators {
+public class j01_ArithmeticOperators {
 
 	public static void main(String[] args) {
 

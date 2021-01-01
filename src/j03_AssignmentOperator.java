@@ -1,5 +1,5 @@
 
-public class j3_AssignmentOperator {
+public class j03_AssignmentOperator {
 
 	public static void main(String[] args) {
 

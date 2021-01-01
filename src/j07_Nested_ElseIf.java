@@ -1,5 +1,5 @@
 
-public class j7_Nested_ElseIf {
+public class j07_Nested_ElseIf {
 
 	public static void main(String[] args) {
 

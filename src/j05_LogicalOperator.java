@@ -1,5 +1,5 @@
 
-public class j5_LogicalOperator {
+public class j05_LogicalOperator {
 
 	public static void main(String[] args) {
 

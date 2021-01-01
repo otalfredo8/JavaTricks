@@ -1,5 +1,5 @@
 
-public class j6_IFStatement {
+public class j06_IFStatement {
 
 	public static void main(String[] args) {
 

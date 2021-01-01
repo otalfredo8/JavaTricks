@@ -1,5 +1,5 @@
 
-public class j8_TernaryOperator {
+public class j08_TernaryOperator {
 
 	public static void main(String[] args) {
 

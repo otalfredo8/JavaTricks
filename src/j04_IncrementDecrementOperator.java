@@ -1,5 +1,5 @@
 
-public class j4_IncrementDecrementOperator {
+public class j04_IncrementDecrementOperator {
 
 	public static void main(String[] args) {
 

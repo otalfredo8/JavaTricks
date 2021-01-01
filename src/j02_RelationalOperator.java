@@ -3,7 +3,7 @@
  *
  *  Relational Operator
  * */
-public class j2_RelationalOperator {
+public class j02_RelationalOperator {
 
 	public static void main(String[] args) {
 		int x = 2;
